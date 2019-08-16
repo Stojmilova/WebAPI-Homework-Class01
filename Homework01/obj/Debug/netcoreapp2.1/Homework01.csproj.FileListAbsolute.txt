@@ -1,0 +1,14 @@
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\bin\Debug\netcoreapp2.1\Homework01.deps.json
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\bin\Debug\netcoreapp2.1\Homework01.runtimeconfig.json
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\bin\Debug\netcoreapp2.1\Homework01.runtimeconfig.dev.json
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\bin\Debug\netcoreapp2.1\Homework01.dll
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.RazorAssemblyInfo.cache
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.RazorAssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.RazorTargetAssemblyInfo.cache
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\bin\Debug\netcoreapp2.1\Homework01.pdb
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.dll
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.pdb
+C:\Users\Stojmilova\Desktop\Homework-WebAPI -Class01\Homework01\obj\Debug\netcoreapp2.1\Homework01.csprojAssemblyReference.cache
