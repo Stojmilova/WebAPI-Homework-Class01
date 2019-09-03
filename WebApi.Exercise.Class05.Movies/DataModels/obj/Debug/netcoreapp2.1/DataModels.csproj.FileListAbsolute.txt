@@ -1,0 +1,8 @@
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataModels\bin\Debug\netcoreapp2.1\DataModels.deps.json
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataModels\bin\Debug\netcoreapp2.1\DataModels.dll
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataModels\bin\Debug\netcoreapp2.1\DataModels.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.dll
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.pdb

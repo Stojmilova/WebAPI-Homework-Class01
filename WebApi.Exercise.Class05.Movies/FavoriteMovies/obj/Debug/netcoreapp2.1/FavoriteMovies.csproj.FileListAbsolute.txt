@@ -1,0 +1,14 @@
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\bin\Debug\netcoreapp2.1\FavoriteMovies.deps.json
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\bin\Debug\netcoreapp2.1\FavoriteMovies.runtimeconfig.json
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\bin\Debug\netcoreapp2.1\FavoriteMovies.runtimeconfig.dev.json
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\bin\Debug\netcoreapp2.1\FavoriteMovies.dll
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.csprojAssemblyReference.cache
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.RazorAssemblyInfo.cache
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.RazorAssemblyInfo.cs
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.AssemblyInfo.cs
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.RazorTargetAssemblyInfo.cache
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\bin\Debug\netcoreapp2.1\FavoriteMovies.pdb
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.dll
+C:\Users\Stojmilova\source\repos\WebApi.Exercise.Class05.Movies\FavoriteMovies\obj\Debug\netcoreapp2.1\FavoriteMovies.pdb

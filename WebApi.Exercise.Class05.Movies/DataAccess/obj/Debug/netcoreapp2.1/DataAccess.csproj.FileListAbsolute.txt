@@ -1,0 +1,12 @@
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\bin\Debug\netcoreapp2.1\DataModels.dll
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\bin\Debug\netcoreapp2.1\DataModels.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Stojmilova\Desktop\ASP.NET WebAPI\WebApi.Exercise.Class05.Movies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
